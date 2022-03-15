@@ -39,7 +39,7 @@ Ini adalah hasil dari tag <p>
 </html>
 
 ## Contoh HEADING
-![gitpush](image/heading.png) <br>
+<img width="959" alt="heading" src="https://user-images.githubusercontent.com/101621068/158359255-6b49f1cd-1bff-4607-b9e7-5c415db71fc9.png"> <br>
 
 Ini adalah contoh heading, heading sendiri adalah sebagai judul dari sebuah artikel web. (h1) adalah heading terbesar (h6) adalah heading terkecil.
 
