@@ -4,7 +4,7 @@
 # Kelas    : TI.20.A.1
 # NIM      : 312010089
 
-## Paragraf
+## <b>Paragraf</b>
 <img width="959" alt="menambahkan paragraf" src="https://user-images.githubusercontent.com/101621068/158334961-b8ea2148-9f0a-4ffa-a381-6fb0dbc7bdf7.png">
 
 Ini adalah hasil dari tag <p>
