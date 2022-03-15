@@ -39,7 +39,8 @@ Ini adalah hasil dari tag <p>
 </html>
 
 ## Contoh HEADING
-<img width="959" alt="heading" src="https://user-images.githubusercontent.com/101621068/158355323-12453918-3a70-42f1-bd9b-d35df1a60fe0.png">
+<img width="959" alt="heading" src="https://user-images.githubusercontent.com/101621068/158357326-03bfdf53-4dc8-4732-bd31-2298033fcc05.png">
+
 Ini adalah contoh heading, heading sendiri adalah sebagai judul dari sebuah artikel web. (h1) adalah heading terbesar (h6) adalah heading terkecil.
 
 ## Contoh Coding
